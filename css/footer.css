@@ -46,11 +46,12 @@ footer {
 }
 
 .emailform input {
+	width: 380px;
 	font-family: 'Gilroy-Light ☞';
 	line-height: 25px;
 	font-size: 16px;
 	color: #393939;
-	padding: 21px 232px 18px 26px;
+	padding: 21px 26px 18px 26px;
 	margin-right: 20px;
 	border-radius: 2px;
 	border: none;
