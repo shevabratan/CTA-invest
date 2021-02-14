@@ -1,0 +1,328 @@
+.gray_bg {
+	background-color: #2e2e2e;
+	overflow: hidden;
+
+}
+
+.vol5313 {
+	float: left;
+	width: 26%;
+	display: block;
+	padding: 32px 16px;
+	margin-right: 80px;
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 48px;
+	color: #fff;
+}
+
+.vol5313:last-child {
+	margin-right: 0px;
+}
+
+.vol5313 p {
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+}
+
+.container h2 {
+	text-align: center;
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 36px;
+	color: #2e2e2e;
+	margin: 55px 0;
+	position: relative;
+}
+
+.container h2::after {
+	display: block;
+	content: "";
+	position: absolute;
+	width: 22%;
+	height: 1px;
+	background-color: #680aab;
+	top: 70px;
+	margin-left: 458px;
+}
+
+.top p {
+	padding: 0px 165px;
+	margin-bottom: 50px;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+	text-align: center;
+}
+
+
+.middle_box {
+	float: left;
+	width: 47%;
+	height: 132px;
+	margin: 16px 16px 55px 16px;
+	border: 1px solid #dbdbdb;
+	border-radius: 4px;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.14);
+}
+
+
+.icon_1 {
+	float: left;
+	margin: 37px;
+}
+
+
+.icon_1c {
+	float: right;
+	width: 73%;
+
+}
+
+.icon_2 {
+	float: left;
+	margin: 30px;
+}
+
+.icon_2c {
+	float: right;
+	width: 76%;
+}
+
+.middle h4 {
+	padding-top: 20px;
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 18px;
+	color: #2e2e2e;
+}
+
+.middle p {
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+	margin-top: 8px;
+	margin-right: 15px;
+}
+
+.video iframe {
+	margin: 16px;
+	margin-bottom: 60px;
+}
+
+.video {
+	float: left;
+	width: 50%;
+}
+
+.video p {
+	margin: 16px;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+}
+
+.video button {
+	margin: 15px;
+	padding: 16px 57px;
+	border: none;
+	background-color: #7db02c;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 18px;
+	outline: none;
+	color: #fff;
+}
+
+
+.gray_top h2 {
+	text-align: center;
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 36px;
+	color: #dbdbdb;
+	margin: 55px 0;
+	position: relative;
+}
+
+.gray_top h2::after {
+	display: block;
+	content: "";
+	position: absolute;
+	width: 22%;
+	height: 1px;
+	background-color: #7db02c;
+	top: 70px;
+	margin-left: 458px;
+}
+
+.gray_top p {
+	padding: 0px 165px;
+	margin-bottom: 60px;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #fff;
+	text-align: center;
+}
+
+.box {
+	float: left;
+	width: 33.3%;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #fff;
+}
+
+.box_1 img {
+	margin-left: 90px;
+
+}
+
+.box_2 img {
+	margin-left: 122px;
+}
+
+.box_3 img {
+	margin-left: 152px;
+}
+
+.box_1 p { 
+	text-align: center;
+	margin: 30px 47px 98px -17px;
+}
+
+.box_2 p { 
+	text-align: center;
+	margin: 30px 15px 98px 15px;
+}
+
+.box_3 p { 
+	text-align: center;
+	margin: 30px 0px 98px 64px;
+}
+
+.profil_info {
+	float: left;
+	margin-left: 15px;
+	margin-bottom: 60px;
+	width: 393px;
+	height: 432px;
+	border: 1px solid #dbdbdb;
+	border-radius: 4px;
+	box-shadow: 0px 2px 5px rgba(0,0,0,0.14);
+}
+
+.profil_info i {
+	font-size: 24px;
+	color: #cf3819;
+	margin-top: 10px;
+	margin-left: 5px;
+	cursor: pointer;	
+}
+
+.profil_info i:hover {
+	color: #ff0000;
+}
+
+.profil {
+	float: left;
+}
+
+.profil img {
+	width: 94px;
+	margin: 18px;
+}
+
+.name {
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 18px;
+	color: #2e2e2e;
+	width: 55%;
+	margin: 24px 0px 5px 11px;
+}
+
+.name h5 {
+	margin-top: 5px;
+	margin-bottom: 60px;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+}
+
+.label {
+	float: left;
+	width: 40%;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+	margin-left: 20px;
+}
+
+.percents {
+	float: right;
+	width: 34%;
+	text-align: right;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+	background-color: #d3e0f6;
+	margin-top: 15px;
+}
+
+.profil p {
+	font-family: 'Gilroy-Light ☞';
+	font-size: 16px;
+	line-height: 30px;
+	color: #2e2e2e;
+	margin-top: 18px;
+	margin-left: 20px;
+}
+
+.start_invest {
+	padding: 16px 57px;
+	border: none;
+	background-color: #7db02c;
+	font-family: 'Gilroy-Light ☞';
+	font-size: 18px;
+	outline: none;
+	color: #fff;
+	margin-top: 16px;
+	margin-left: 20px;
+}
+
+.graph {
+	float: right;
+	width: 727px;
+	height: 432px;
+	border: 1px solid #dbdbdb;
+	border-radius: 4px;
+	margin-bottom: 60px;
+}
+
+.graph h4 {
+	float: left;
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 16px;
+	color: #393939;
+	margin: 18px 29px;
+}
+
+.graph h5 {
+	float: right;
+	font-family: 'AvenirNextCyr-Bold';
+	font-size: 16px;
+	color: #7db02c;
+	margin: 18px 29px;
+
+
+}
+
+.graph img {
+	width: 705px;
+	margin: 0px 11px 21px;
+	border-top: 1px	solid #dbdbdb;
+}
